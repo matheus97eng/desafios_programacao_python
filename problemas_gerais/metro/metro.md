@@ -15,12 +15,12 @@ Help Bob determine whether he can travel to the Alice's home by metro or he shou
 
 ## Input
 
-The first line contains two integers $n$ and $s$ ($2 < s \leq n \leq 1000$) — the number of stations in the metro and the number of the station where Alice's home is located. 
+The first line contains two integers $$n$$ and $s$ ($2 < s \leq n \leq 1000$) — the number of stations in the metro and the number of the station where Alice's home is located. 
 Bob lives at station 11.
 
 Next lines describe information about closed and open stations.
 
-The second line contains nn integers $a_1$, $a_2$, ..., $a_n$ ($a_i = 0$ or $a_i = 1$). If $a_i = 1$, then the i-th station is open on the first track 
+The second line contains nn integers $a_1$, $a_2$, ..., $a_n$ ($$a_i = 0$$ or $$a_i = 1$$). If $$a_i = 1$$, then the i-th station is open on the first track 
 (that is, in the direction of increasing station numbers). Otherwise the station is closed on the first track.
 
 The third line contains $n$ integers $b_1, b_2, \ldots, b_n$ ($b_i = 0$ or $b_i = 1$). If $b_i = 1$, then the ii-th station is open on the second track 
