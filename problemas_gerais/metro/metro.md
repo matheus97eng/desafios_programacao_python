@@ -1,7 +1,3 @@
----
-mathjax: true
----
-
 # Metro
 
 Alice has a birthday today, so she invited home her best friend Bob. Now Bob needs to find a way to commute to the Alice's home.
@@ -19,7 +15,7 @@ Help Bob determine whether he can travel to the Alice's home by metro or he shou
 
 ## Input
 
-The first line contains two integers $$n$$ and $s$ ($2 < s \leq n \leq 1000$) — the number of stations in the metro and the number of the station where Alice's home is located. 
+The first line contains two integers $$n$$ and $s$ ($$2 < s \leq n \leq 1000$$) — the number of stations in the metro and the number of the station where Alice's home is located. 
 Bob lives at station 11.
 
 Next lines describe information about closed and open stations.
