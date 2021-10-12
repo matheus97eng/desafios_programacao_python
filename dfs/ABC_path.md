@@ -5,11 +5,11 @@ Paths can step from one letter in the grid to any adjacent letter (horizontally,
 
 For example, in the following grid, there are several paths from 'A' to 'D', but none from 'A' to 'E':
 
-<script src="https://vj.ppsucxtt.cn/3b752bcc214cdbbf416d79bab97bde31?v=1633842825"></script>
+<img src="https://vj.ppsucxtt.cn/3b752bcc214cdbbf416d79bab97bde31?v=1633842825">
 
 One such path is:
 
-<script src="https://vj.ppsucxtt.cn/a8949658a9cb6325e9ef55b06bc0d62a?v=1633842825"></script>
+<img src="https://vj.ppsucxtt.cn/a8949658a9cb6325e9ef55b06bc0d62a?v=1633842825">
 
 ## Input
 
