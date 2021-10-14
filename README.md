@@ -14,3 +14,4 @@ Os exercícios trabalham conceitos como:
 - BFS em grid
 - DFS em grid
 
+Para cada pasta aborda um tópico diferente e nelas se encontram os problemas, cada um com um título diferente. Os arquivos `.md` contém uma descrição do problema, enquanto os arquivos `.py` são a solução do problema
